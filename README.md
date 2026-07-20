@@ -13,12 +13,16 @@ It is important that your electronics are compatible, to ensure this, take your 
 Go to your favorite website for buying electronics (I chose for aliexpress), then type your product information and add before you search "controller", make sure the parts you are buying include 1. connection for the backlide of your monitor (every LCD monitor funtions the same, you have to layers: 1. the Light scource and 2. a layer of crystals, which colors the pixels in the monitor); 2. a connection for the Layer of crystals; 3. some arrangement of bottons to change settings; 4. a power-source, which is compatible with the device. Here some pictures of my parts, which I bought:
 
 ![Picture of the bottons-pcb](pictures/bottons.jpg)
+Bottons to controll the display
 
 ![Picture of the mainboard-pcb](pictures/mainboard.jpg)
+Mainboard, which has all the connectors
 
 ![Picture of the power-pcb](pictures/power-for-the-backlight.jpg)
+Picture of the power converter, which provides power for the backlight
 
 ![Picture of the power plug for the wall](pictures/power-brick.jpg)
+A a power supply
 
 ## Step 2: Building the monitor
 
@@ -48,8 +52,22 @@ Here are some tips for what you should watch out during your monitor building:
 
 ## Step 3: Enclosure for the electronics
 
-You still need an enclosure for the motherboard, powersupply and the controll panel. So get the dimensons of your platines and adjust the provided 3D-files in your favorite editor. If you are using FUSION 360, then you can use the following:
+You still need an enclosure for the motherboard, powersupply and the controll panel. So get the dimensons of your platines and adjust the provided 3D-files in your favorite editor. Then Print your case, glue the powersupply and the mainboard to the back of the Monitor case. See as reference for the following picture:
 
+![Picture of backside of the monitor](pictures/covers-on-back-of-monitor.jpg)
+
+Place the controller-ocb (bottons) in his enclosure and glue it together like this:
+
+![Picture of bottons in case](pictures/controller-pcb-in-case.jpg)
+
+The last part, which you need to glue together is the controller-case to the side of your monitor or whereever you prefer your monitor controlls:
+
+![Picture of controller case glued to the side of the monitor](pictures/controller-case-glued-to-monitor.jpg)
+
+
+## Step 4: Printing the Stand of your monitor:
+
+Adjust the monitor stand to your monitor, for this, you just need to adjust the thickniss of the notch (the big hole in the stand) to your monitor. Then print it and place it like this under your monitor:
 
 
 
@@ -63,3 +81,5 @@ Link: https://de.aliexpress.com/item/1005005975067411.html?spm=a2g0o.productlist
 - A powersource for the controller (for the controller linked above it is: 12V DC 4a )
 
 Link: https://de.aliexpress.com/item/1005004497000966.html?spm=a2g0o.productlist.main.1.68c4vQxjvQxjCh&algo_pvid=6e319123-1a26-48f0-ad29-1b14fa4aabb3&algo_exp_id=6e319123-1a26-48f0-ad29-1b14fa4aabb3-0&pdp_ext_f=%7B%22order%22%3A%221277%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21EUR%213.35%213.35%21%21%213.74%213.74%21%400b0fe08917845642879394556e0ee0%2112000029365239086%21sea%21DE%210%21ABX%211%210%21n_tag%3A-29910%3Bd%3A60591074%3Bm03_new_user%3A-29895&curPageLogUid=vSurv6SGYXkA&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005004497000966%7C_p_origin_prod%3A
+
+<video controls src="showcase-video.mp4" title="Showcase of the monitor:"></video>
