@@ -69,7 +69,7 @@ The last part, which you need to glue together is the controller-case to the sid
 
 Adjust the monitor stand to your monitor, for this, you just need to adjust the thickniss of the notch (the big hole in the stand) to your monitor. Then print it and place it like this under your monitor:
 
-
+![Picture of the monitor](pictures/Stand-for-monitor.png)
 
 # BILL OF MATIRIALS:
 - LP154WX4 (TL) (E1) aka. an old lcd screen out of an Labtop
@@ -81,5 +81,3 @@ Link: https://de.aliexpress.com/item/1005005975067411.html?spm=a2g0o.productlist
 - A powersource for the controller (for the controller linked above it is: 12V DC 4a )
 
 Link: https://de.aliexpress.com/item/1005004497000966.html?spm=a2g0o.productlist.main.1.68c4vQxjvQxjCh&algo_pvid=6e319123-1a26-48f0-ad29-1b14fa4aabb3&algo_exp_id=6e319123-1a26-48f0-ad29-1b14fa4aabb3-0&pdp_ext_f=%7B%22order%22%3A%221277%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21EUR%213.35%213.35%21%21%213.74%213.74%21%400b0fe08917845642879394556e0ee0%2112000029365239086%21sea%21DE%210%21ABX%211%210%21n_tag%3A-29910%3Bd%3A60591074%3Bm03_new_user%3A-29895&curPageLogUid=vSurv6SGYXkA&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005004497000966%7C_p_origin_prod%3A
-
-<video controls src="showcase-video.mp4" title="Showcase of the monitor:"></video>
