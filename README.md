@@ -50,3 +50,16 @@ Here are some tips for what you should watch out during your monitor building:
 
 You still need an enclosure for the motherboard, powersupply and the controll panel. So get the dimensons of your platines and adjust the provided 3D-files in your favorite editor. If you are using FUSION 360, then you can use the following:
 
+
+
+
+# BILL OF MATIRIALS:
+- LP154WX4 (TL) (E1) aka. an old lcd screen out of an Labtop
+- compatible controllers for your lcd screen (like this, sadly I havn't found the one, which I have, so you still need to adjust the enclosure)
+
+Link: https://de.aliexpress.com/item/1005005975067411.html?spm=a2g0o.productlist.main.3.1b38jH34jH34LG&algo_pvid=eebdf741-7301-4065-a794-0221625f0a98&algo_exp_id=eebdf741-7301-4065-a794-0221625f0a98-2&pdp_ext_f=%7B%22order%22%3A%224%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21EUR%2123.55%2117.19%21%21%2126.30%2119.20%21%40210393bd17845639824468742e109a%2112000035129470428%21sea%21DE%210%21ABX%211%210%21n_tag%3A-29910%3Bd%3A60591074%3Bm03_new_user%3A-29895&curPageLogUid=Ph9pGr8QCu85&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005005975067411%7C_p_origin_prod%3A
+
+- being able to 3D-print your enclosure or being able to do a diffrent enclosure
+- A powersource for the controller (for the controller linked above it is: 12V DC 4a )
+
+Link: https://de.aliexpress.com/item/1005004497000966.html?spm=a2g0o.productlist.main.1.68c4vQxjvQxjCh&algo_pvid=6e319123-1a26-48f0-ad29-1b14fa4aabb3&algo_exp_id=6e319123-1a26-48f0-ad29-1b14fa4aabb3-0&pdp_ext_f=%7B%22order%22%3A%221277%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21EUR%213.35%213.35%21%21%213.74%213.74%21%400b0fe08917845642879394556e0ee0%2112000029365239086%21sea%21DE%210%21ABX%211%210%21n_tag%3A-29910%3Bd%3A60591074%3Bm03_new_user%3A-29895&curPageLogUid=vSurv6SGYXkA&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005004497000966%7C_p_origin_prod%3A
